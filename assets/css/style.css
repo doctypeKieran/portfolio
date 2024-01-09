@@ -19,6 +19,11 @@ a {
     text-decoration: none;
 }
 
+main {
+    padding: 0 5rem;
+    margin-top: 5rem;
+}
+
 /* Font styles */
 
 .font-main {
