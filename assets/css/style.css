@@ -1,2 +1,18 @@
-/* Google Fonts */
+/* ----------Google Fonts */
+
 @import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&family=Montserrat:wght@400;600;700&display=swap');
+
+/* ----------General Styles */
+
+html,
+body {
+    background-color: #121212;
+    color: #f7f7f7;
+}
+
+button,
+a {
+    color: inherit;
+}
+
+/* ----------Header and Navbar Styles */
