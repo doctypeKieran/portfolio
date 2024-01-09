@@ -15,4 +15,14 @@ a {
     color: inherit;
 }
 
+/* Font styles */
+
+.font-main {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.font-secondary {
+    font-family: 'Hind', sans-serif;
+}
+
 /* ----------Header and Navbar Styles */
