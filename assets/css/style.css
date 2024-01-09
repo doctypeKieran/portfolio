@@ -38,6 +38,16 @@ main {
     font-weight: 700;
 }
 
+.main-title {
+    font-size: 177px;
+    margin: 0;
+}
+
+.secondary-title {
+    font-size: 60px;
+    margin: 0;
+}
+
 /* ----------Header and Navbar Styles */
 
 header {
