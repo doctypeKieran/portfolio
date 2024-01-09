@@ -70,3 +70,12 @@ nav {
     align-items: center;
     gap: 2rem;
 }
+
+/* ----------Home Section Styles */
+
+.home-skills {
+    font-size: 30px;
+}
+.home-skills span {
+    color: #d60036;
+}
