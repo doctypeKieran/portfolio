@@ -46,7 +46,7 @@ section {
 
 .secondary-title {
     font-size: 60px;
-    margin: 0;
+    margin: 16px 0 0 0;
     line-height: 1.0;
 }
 
@@ -82,7 +82,6 @@ nav {
 
 .home-skills {
     font-size: 30px;
-    margin: 10px 0;
 }
 .home-skills span {
     color: #d60036;
