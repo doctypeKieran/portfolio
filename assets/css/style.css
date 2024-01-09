@@ -19,7 +19,7 @@ a {
     text-decoration: none;
 }
 
-main {
+section {
     padding: 0 5rem;
     margin-top: 5rem;
 }
@@ -54,6 +54,11 @@ main {
 
 .color-tertiary {
     color: #00592e;
+}
+
+.section-heading {
+    background-color: #d60036;
+    text-align: center;
 }
 
 /* ----------Header and Navbar Styles */
