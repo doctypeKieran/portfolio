@@ -218,6 +218,10 @@ nav {
 
 /* ----------Home Section Styles */
 
+#home .secondary-title {
+    margin-bottom: 2rem;
+}
+
 .home-skills {
     font-size: 30px;
 }
