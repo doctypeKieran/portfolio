@@ -60,7 +60,10 @@ section {
 
 .section-heading {
     background-color: #d60036;
-    text-align: center;
+    padding: 2rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* ----------Header and Navbar Styles */
@@ -96,4 +99,8 @@ header a h1:hover {
 }
 .home-skills span {
     color: #d60036;
+}
+
+section#home {
+    margin-bottom: 10rem;
 }
