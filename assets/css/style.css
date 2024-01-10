@@ -146,10 +146,12 @@ body {
 button,
 a {
     color: inherit;
+    text-decoration: none;
+    transition: color 0.2s ease;
 }
 
-a {
-    text-decoration: none;
+a:hover {
+    color: #d60036;
 }
 
 section {
@@ -212,18 +214,6 @@ nav {
     display: flex;
     align-items: center;
     gap: 2rem;
-}
-
-a {
-    transition: color 0.2s ease;
-}
-
-a:hover {
-    color: #d60036;
-}
-
-a h1:hover {
-    color: #d60036
 }
 
 /* ----------Home Section Styles */
