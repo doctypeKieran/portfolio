@@ -78,6 +78,17 @@ nav {
     gap: 2rem;
 }
 
+header a {
+    transition: color 0.2s ease;
+}
+
+header a:hover {
+    color: #d60036;
+}
+header a h1:hover {
+    color: #d60036
+}
+
 /* ----------Home Section Styles */
 
 .home-skills {
