@@ -137,6 +137,10 @@ table {
 
 /* ----------General Styles */
 
+html {
+    scroll-behavior: smooth;
+}
+
 html,
 body {
     background-color: #121212;
@@ -268,4 +272,13 @@ section#projects {
     display: flex;
     align-items: center;
     justify-content: flex-end;
+}
+
+/* ----------About Section Styles */
+
+.about__main-text {
+    text-align: center;
+    padding: 0 20rem;
+    font-size: 1.25rem;
+    line-height: 1.2;
 }
